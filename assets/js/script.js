@@ -1,3 +1,5 @@
+// simple jquery to change preview by selecting picture from gallery.
+
 $(document).ready(function(){
 
 
